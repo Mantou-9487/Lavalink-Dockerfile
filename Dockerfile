@@ -1,4 +1,4 @@
-FROM openjdk:13-jre
+FROM openjdk:13
 
 WORKDIR /opt/Lavalink
 
